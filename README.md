@@ -45,8 +45,8 @@ game/
 | Symbol | Description |
 |--------|-------------|
 | `O/` `\|` `/\` | Player character |
-| `X` `/|\` `/\` | Enemy character |
-| `->` `<-` `^|` `|V` | Projectiles (bullets) |
+| `X` `/\|\` `/\` | Enemy character |
+| `->` `<-` `^\|` `\|V` | Projectiles (bullets) |
 | `#` | Wall/obstacle |
 | `+` | Wall/obstacle |
 | `'` | Enemy range indicator |
