@@ -127,7 +127,7 @@ def delete_entity(deleted_entity):
             globals.projectiles.remove(deleted_entity)
     
 def main():
-    level_name = "level/" + input("Enter level name: ")
+    level_name = "levels\\" + input("Enter level name: ")
     load_level(level_name)
     
     is_running = True
